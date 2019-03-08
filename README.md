@@ -4,4 +4,4 @@
 #1.Overview
 
 
- ![image](https://github.com/DpChens/aiso-tcp-qt-gui-wrap/raw/master/gif/gui.jpg)
+ ![image](https://github.com/DpChens/aiso-tcp-qt-gui-wrap/raw/master/gui.jpg)
